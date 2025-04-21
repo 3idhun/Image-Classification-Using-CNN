@@ -5,7 +5,7 @@ This repository contains code for training a convolutional neural network (CNN) 
 <b>The images used in this project have been collected from various sources from the internet and are used solely for educational purposes. We do not claim ownership of these images, and they are included here only to demonstrate the functionality of the classifier.</b>
 
 <h2>Overview</h2>
-The classifier is built using the Keras deep learning framework with a TensorFlow backend. It utilizes a CNN architecture to extract features from images and make predictions based on those features.
+The classifier is built using the Keras deep learning framework with a TensorFlow backend. It utilizes a CNN architecture to extract features from images and make predictions based on those features. 
 
 <h2>Dataset</h2>
 The training and testing data consist of images of Mamukka and Lalettan collected from various sources. The dataset is divided into two directories: train and test, each containing subdirectories for each actor.
