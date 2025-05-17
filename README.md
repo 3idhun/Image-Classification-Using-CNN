@@ -21,12 +21,19 @@ The images used in this project are sourced from publicly available content on t
 The dataset is organized into `train` and `test` directories, each with two subdirectories:
 
 dataset/
+
 ├── train/
+
 │ ├── mammootty/
+
 │ └── mohanlal/
+
 └── test/
+
 ├── mammootty/
+
 └── mohanlal/
+
 
 
 Each subdirectory contains images of the respective actor.
