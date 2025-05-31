@@ -1,6 +1,6 @@
 # 🎭 Mamukka Lalettan Classifier
 
-A deep learning-based image classifier that distinguishes between Malayalam actors **Mammootty** (Mamukka) and **Mohanlal** (Lalettan) using a Convolutional Neural Network (CNN) built with Keras and TensorFlow.
+A deep learning-based image classifier that distinguishes between Malayalam actors **Mammootty** (Mamukka) and **Mohanlal** (Lalettan) using a Convolutional Neural Network (CNN) built with Keras and TensorFlow. 
 
 ---
 
