@@ -12,7 +12,7 @@ This project implements a CNN model to classify images of Mammootty and Mohanlal
 
 ## ⚠️ Disclaimer
 
-The images used in this project are sourced from publicly available content on the internet and are included solely for educational and demonstrative purposes. We do not claim ownership of any image used.
+The images used in this project are sourced from publicly available content on the internet and are included solely for educational and demonstrative purposes. We do not claim ownership of any image used.  
 
 ---
 
