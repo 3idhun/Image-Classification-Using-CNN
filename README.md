@@ -5,7 +5,7 @@ A deep learning-based image classifier that distinguishes between Malayalam acto
 ---
                     
 ## 📌 Overview
-
+  
 This project implements a CNN model to classify images of Mammootty and Mohanlal. The model extracts visual features and uses them to accurately predict which actor appears in a given image.
 
 ---
